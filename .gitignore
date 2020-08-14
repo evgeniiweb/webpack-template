@@ -1,0 +1,13 @@
+# compiled output
+/dist
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+# misc
+/.sass-cache
+npm-debug.log
+yarn-error.log
